@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Mara Bte3eesh
+
+This log tracks the cryptographic history and versioning for the song **Kol Mara Bte3eesh** (kol-mara-bte3eesh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:13:36.246780 | `v1` | `0abfec474c97336359381cee6aa10b9cf8bd93c232a41a791ff430c7558892f9` | `1bd12ed78b2947f27c9dc8379f80aefb219427df5cb4a64a6fb138f737bfdf9b` | `2026-05-09_kol-mara-bte3eesh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
